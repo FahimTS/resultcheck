@@ -1,0 +1,2 @@
+# resultcheck
+Usages of JavaScript
